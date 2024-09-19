@@ -15,7 +15,7 @@ The system handles several features such as car selection, customer management, 
 - Language: C
 - Development Environment: Turbo C
 - File Handling: Used for data persistence of car information and rental history.
-- 
+  
 ## Future Enhancements
 - GUI Interface: Transition to a graphical user interface for a better experience.
 - Database Integration: Use a database for better data handling.
@@ -26,5 +26,5 @@ The system handles several features such as car selection, customer management, 
 This project represents my initial approach to problem-solving and coding when I began my journey as a developer. Now in my pre-final year, I have learned more advanced concepts and developed multiple applications, but this project stands as a testament to my growth. Sharing it on GitHub highlights my continuous learning journey and my early hands-on experience in programming.
 
 ## Connect with Me
-Email: rachelaish2022@gmail.com
-LinkedIn: linkedin.com/in/aiswarya-s-711a2625a/
+- Email: rachelaish2022@gmail.com
+- LinkedIn: linkedin.com/in/aiswarya-s-711a2625a/
